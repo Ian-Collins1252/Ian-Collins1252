@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ian Collins (He/They) from Kansas
+- 👋 Hi, I’m Ian Collins (They/He) from Kansas
 - 👀 I’m interested in the interaction of data science and ecological interactions
 - 🌱 I’m currently learning Interdisinciplinary Computing and Biology
 - 💞️ I’m looking to collaborate on data bases and statistical analysis
